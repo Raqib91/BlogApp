@@ -25,4 +25,4 @@ This is a blog app web application having following features:
 ### Instructions to run the application:
 * Download the zip file and extract it
 * Create a Maven project and import the SqBlogApp folder
-* Run the project as web application by starting the server (Root address for localhost:- localhost:8081)
+* Run the project as Spring Boot App and send request (Root address for localhost:- localhost:8081)
