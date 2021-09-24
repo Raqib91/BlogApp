@@ -1,4 +1,4 @@
-# BlogApp(server.port=8081)
+# BlogApp (server.port=8081)
 This is a blog app web application having following features:
 * Two types of role - 1. Admin (Initial Admin username = 'super' and password = '1234'), 2. Blogger.
 * Admin can create new admin, approve or delete pending blogger, deactivate or delete approved blogger, approve or delete pending blog, delete approved blogger.
